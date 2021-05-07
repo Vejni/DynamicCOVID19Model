@@ -1,6 +1,6 @@
 # Developing a Dynamic Network-Based Model for COVID-19
 
-AuthorsChristie Wilce, Ella Mattinen, Marcell Veiner
+Authors: Christie Wilce, Ella Mattinen, Marcell Veiner
 
 We describe a dynamic network-based approach for modeling the spread of COVID-19. Building
 onto existing models, we introduce governmental measures in the form of quarantine in addition to
